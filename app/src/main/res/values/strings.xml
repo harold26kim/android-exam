@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">upraxis</string>
+
+    <string name="title_all_user">All User</string>
+    <string name="title_user_details">User Details</string>
+
+
+    <string name="desc_other_details">Other Details</string>
+    <string name="desc_gender">Gender</string>
+    <string name="desc_birthday">Birthday</string>
+    <string name="desc_address">Address</string>
+</resources>

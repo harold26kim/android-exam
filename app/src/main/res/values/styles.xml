@@ -1,0 +1,22 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextView.TITLE" parent="Widget.AppCompat.TextView">
+        <item name="android:maxLines">1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorForeground</item>
+        <item name="android:textSize">@dimen/material_text_size_subtitle_1</item>
+    </style>
+
+    <style name="TextView.PRIMARY" parent="Widget.AppCompat.TextView">
+        <item name="android:maxLines">1</item>
+        <item name="android:textColor">@color/colorForeground</item>
+        <item name="android:textSize">@dimen/material_text_size_subtitle_2</item>
+    </style>
+</resources>
